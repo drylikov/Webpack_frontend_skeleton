@@ -59,6 +59,8 @@ For running webpack for watching with production configuration you can enter:
 
 ## Project structure
 
+
+
 | Path             | Description                         |
 | ---------------- | ----------------------------------- |
 | /app             | Your application                    |
