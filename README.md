@@ -55,6 +55,8 @@ For running webpack for watching with production configuration you can enter:
 
 > NODE_ENV=production npm run watch
 
+
+
 ## Project structure
 
 | Path             | Description                         |
