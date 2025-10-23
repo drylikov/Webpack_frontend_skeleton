@@ -3,6 +3,8 @@
 
 # Webpack frontend skeleton
 
+
+
 ## Initialization
 
 It's common webpack project, for future usage you should install node.js and
